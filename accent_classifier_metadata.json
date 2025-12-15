@@ -1,0 +1,19 @@
+{
+    "model_type": "MFCC_MLP",
+    "features": "MFCCs",
+    "labels": [
+        "turkish",
+        "vietnamese",
+        "urdu",
+        "ukrainian",
+        "tigrigna",
+        "wolof",
+        "sicilian",
+        "yoruba",
+        "twi",
+        "uyghur"
+    ],
+    "accuracy": 0.85,
+    "date_saved": "2025-12-15T03:01:18.711752",
+    "notes": "Baseline MFCC MLP achieved highest balanced accuracy across accents.Includes Sicilian accent samples."
+}
