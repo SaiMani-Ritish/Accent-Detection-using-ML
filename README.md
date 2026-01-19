@@ -122,5 +122,5 @@ Jeff Mobley
 Megha Narendra Simha
 Sai Mani Ritish
 
-DS-620 Machine Learning & Deep Learning
+Machine Learning & Deep Learning
 City University of Seattle
